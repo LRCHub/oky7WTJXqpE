@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "Lionsong",
+  "base_artist": "Björk",
+  "createdAt": "2026-02-27T02:10:42.189635Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Lionsong",
+      "artist": "Björk",
+      "has_synced": false,
+      "path": "select/01_Lionsong_Björk.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Lionsong (Choral Mix & Untold)",
+      "artist": "Björk",
+      "has_synced": true,
+      "path": "select/02_Lionsong_(Choral_Mix_&_Untold)_Björk.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Lionsong (Choral Mix ft. Untold)",
+      "artist": "Björk",
+      "has_synced": true,
+      "path": "select/03_Lionsong_(Choral_Mix_ft._Untold)_Björk.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Lionsong - Juliana Huxtable Remix",
+      "artist": "Björk",
+      "has_synced": true,
+      "path": "select/04_Lionsong_-_Juliana_Huxtable_Remix_Björk.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Lionsong (Juliana Huxtable Remix)",
+      "artist": "Björk",
+      "has_synced": false,
+      "path": "select/05_Lionsong_(Juliana_Huxtable_Remix)_Björk.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Lionsong - Live",
+      "artist": "Björk",
+      "has_synced": false,
+      "path": "select/06_Lionsong_-_Live_Björk.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Lionsong (Julia Huxtable Remix)",
+      "artist": "Björk",
+      "has_synced": true,
+      "path": "select/07_Lionsong_(Julia_Huxtable_Remix)_Björk.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Lionsong",
+      "artist": "Bjork",
+      "has_synced": true,
+      "path": "select/08_Lionsong_Bjork.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Lionsong (Choral Mix)",
+      "artist": "Björk feat. Untold",
+      "has_synced": false,
+      "path": "select/09_Lionsong_(Choral_Mix)_Björk_feat._Untold.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Lionsong (Choral Mix)",
+      "artist": "Björk",
+      "has_synced": false,
+      "path": "select/10_Lionsong_(Choral_Mix)_Björk.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Lionsong (Juliana Huxtable Remix)",
+      "artist": "Björk",
+      "has_synced": true,
+      "path": "select/11_Lionsong_(Juliana_Huxtable_Remix)_Björk.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Lionsong",
+      "artist": "Björk feat. Untold",
+      "has_synced": false,
+      "path": "select/12_Lionsong_Björk_feat._Untold.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Lionsong",
+      "artist": "Björk",
+      "has_synced": true,
+      "path": "select/13_Lionsong_Björk.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Lionsong (Choral Mix) [feat. Untold]",
+      "artist": "Björk",
+      "has_synced": false,
+      "path": "select/14_Lionsong_(Choral_Mix)_[feat._Untold]_Björk.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Lionsong",
+      "artist": "Björk",
+      "has_synced": true,
+      "path": "select/15_Lionsong_Björk.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Lionsong",
+      "artist": "Björk",
+      "has_synced": false,
+      "path": "select/pl_01_Lionsong_Björk.txt"
+    }
+  ]
+}
